@@ -4,6 +4,6 @@
 [submodule "HerveBoutonnet_3_20012022"]
 	path = HerveBoutonnet_3_20012022
 	url = https://github.com/Myryos/HerveBoutonnet_3_20012022.git
-[submodule "test"]
-	path = test
-	url = https://github.com/Myryos/test.git
+[submodule "P4_BEFORE"]
+	path = P4_BEFORE
+	url = git@github.com:Myryos/P4_BEFORE.git
