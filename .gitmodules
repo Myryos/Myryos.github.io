@@ -7,3 +7,6 @@
 [submodule "P4_BEFORE"]
 	path = P4_BEFORE
 	url = git@github.com:Myryos/P4_BEFORE.git
+[submodule "Project_4_After"]
+	path = Project_4_After
+	url = https://github.com/Myryos/Project_4_After.git
